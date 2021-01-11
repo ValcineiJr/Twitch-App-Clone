@@ -15,9 +15,9 @@ UI Clone (Mobile) - Twitch App
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/ValcineiJr)
+[<img src="https://avatars3.githubusercontent.com/u/22758334?s=460&u=da34ea9a0b961f9c4a9e0b58318ada1d9c4a8cd2&v=4" width="75px;"/>](https://github.com/ValcineiJr)
 
-[Guilherme Rodz](https://github.com/ValcineiJr)
+[Valcinei Furtado](https://github.com/ValcineiJr)
 
 ## Techs
 
